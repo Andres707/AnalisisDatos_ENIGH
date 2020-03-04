@@ -1,6 +1,6 @@
 # Analisis_Datos_ENIGH
  
-###Regresión Lineal :round_pushpin:
+##Regresión Lineal :round_pushpin:
 
 #####¿Es rentable que ponga un negocio en mi casa?
 
