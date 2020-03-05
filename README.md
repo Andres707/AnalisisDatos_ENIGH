@@ -9,7 +9,7 @@
 ###### Datasets:  
 **Negocios Agropecuarios y Negocios no agropecuarios.**
 
-### Regresión Logística :round_pushpin:
+## Regresión Logística :round_pushpin:
 ##### ¿Cómo saber a quién sí, debo rentar mi casa?
 ###### Hipotesis uno: 
 *Todos los clientes son potencialmente no aptos para rentarles.*
@@ -17,7 +17,9 @@
 **_Pago o no el mes pasado._**
 ###### Datasets: 
 **Ingresos por hogar, gastos por hogar y Viviendas.**
----
+
+
+
 - [x] Regresión Lineal
 - [ ] Regresión Logística
 - [ ] Regresión Polinomial
