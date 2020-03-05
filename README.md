@@ -1,12 +1,17 @@
 # Analisis_Datos_ENIGH
  
-###Regresión Lineal :round_pushpin:
+##Regresión Lineal :round_pushpin:
+
 #####¿Es rentable que ponga un negocio en mi casa?
+
 ######Hipotesis uno: 
+
 Un negocio en la mayoría de los casos es rentable.
 ######Variable dependiente: 
+
 Ventas del negocio.
 ######Datasets:  
+
 Negocios Agropecuarios y Negocios no agropecuarios.
 
 ###Regresión Logística. :round_pushpin:
