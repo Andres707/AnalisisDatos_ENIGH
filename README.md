@@ -21,5 +21,5 @@
 
 
 - [x] Regresión Lineal
-- [ ] Regresión Logística
+- [x] Regresión Logística
 - [ ] Regresión Polinomial
